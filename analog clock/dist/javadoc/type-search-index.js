@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"analog.clock","l":"Clock"},{"p":"shadow","l":"GraphicsUtilities"},{"p":"analog.clock","l":"ModelTime"},{"p":"shadow","l":"ShadowRenderer"},{"p":"analog.clock","l":"Test"}];updateSearchResults();
